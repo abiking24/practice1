@@ -8,7 +8,6 @@ int findLargestNumber(int arr[], int size) {
  }
  }
 
-
  return largest;
 }
 int main() {
